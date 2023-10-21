@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: DS 1
+subtitle: Électricité/Traitement des signaux
 ---
 
 [**Énoncé**](www.google.com)
