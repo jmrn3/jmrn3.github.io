@@ -10,21 +10,25 @@
 ############################
 
 # Name of website
-title: MP
+title: MP Physique
 
 # Your name to show in the footer
-author: Some Person
+author: J.M.
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Cours : "cours"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Cours : "cours" 
+  DS:
+    - DS 1: "https://beautifuljekyll.com"
+    - DS 2: "https://www.markdowntutorial.com/"
+    - DS 3: 
+    - DS 4: 
+    - DS 6:
+    - DS 6:
+  DM : "https://deanattali.com"
 
 ################
 # --- Logo --- #
