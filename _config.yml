@@ -22,7 +22,7 @@ author: J.M.
 navbar-links:
   Cours : "cours" 
   DS:
-    - DS 1: "https://beautifuljekyll.com"
+    - DS 1: "aboutme.md"
     - DS 2: "https://www.markdowntutorial.com/"
     - DS 3: 
     - DS 4: 
